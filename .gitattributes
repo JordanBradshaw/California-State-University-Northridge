@@ -20,7 +20,7 @@
 *.bat             text eol=crlf
 *.cmd             text eol=crlf
 *.coffee          text
-*.css             text diff=php
+*.css             linguist-language=php
 *.htm             text diff=html
 *.html            text diff=html
 *.inc             text
@@ -111,7 +111,7 @@ package-lock.json text -diff
 *.yaml            text
 *.yml             text
 browserslist      text
-Makefile          text diff=c
+Makefile          linguist-language=c
 makefile          text
 
 # Heroku
