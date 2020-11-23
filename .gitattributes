@@ -20,7 +20,7 @@
 *.bat             text eol=crlf
 *.cmd             text eol=crlf
 *.coffee          text
-*.css             text
+*.css             text diff=php
 *.htm             text diff=html
 *.html            text diff=html
 *.inc             text
@@ -111,7 +111,7 @@ package-lock.json text -diff
 *.yaml            text
 *.yml             text
 browserslist      text
-Makefile          text
+Makefile          text diff=c
 makefile          text
 
 # Heroku
