@@ -15,17 +15,18 @@
 ##   This will handle all files NOT defined below.
 *                 text=auto
 
+
 # Source code
 *.bash            text eol=lf
 *.bat             text eol=crlf
 *.cmd             text eol=crlf
 *.coffee          text
-*.css             binary
+*.css             linguist-language=PHP
 *.htm             text diff=html
 *.html            text diff=html
 *.inc             text
 *.ini             text
-*.ino              text diff=c
+*.ino              linguist-language=c
 *.js              text
 *.json            text
 *.jsx             text
