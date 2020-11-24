@@ -20,11 +20,12 @@
 *.bat             text eol=crlf
 *.cmd             text eol=crlf
 *.coffee          text
-*.css             linguist-language=php
+*.css             binary
 *.htm             text diff=html
 *.html            text diff=html
 *.inc             text
 *.ini             text
+*.ino              text diff=c
 *.js              text
 *.json            text
 *.jsx             text
@@ -33,7 +34,7 @@
 *.map             text -diff
 *.od              text
 *.onlydata        text
-*.php             text diff=php
+*.php             binary
 *.pl              text
 *.ps1             text eol=crlf
 *.py              text diff=python
