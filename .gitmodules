@@ -1,0 +1,9 @@
+[submodule "COMP 322 - Introduction to Operating Systems"]
+	path = COMP 322 - Introduction to Operating Systems
+	url = https://github.com/JordanBradshaw/COMP322
+[submodule "COMP 380 - Introduction to Software Engineering"]
+	path = COMP 380 - Introduction to Software Engineering
+	url = https://github.com/indomie858/spiel
+[submodule "COMP 424 – Computer System Security/\"Group Project\""]
+	path = COMP 424 – Computer System Security/\"Group Project\"
+	url = https://github.com/JordanBradshaw/COMP424
