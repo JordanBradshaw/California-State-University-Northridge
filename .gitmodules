@@ -4,3 +4,6 @@
 [submodule "COMP 424 – Computer System Security/\"Group Project\""]
 	path = COMP 424 – Computer System Security/\"Group Project\"
 	url = https://github.com/JordanBradshaw/COMP424
+[submodule "COMP 424 - Computer System Security/\"Group Project Website\""]
+	path = COMP 424 - Computer System Security/\"Group Project Website\"
+	url = https://github.com/JordanBradshaw/COMP424
