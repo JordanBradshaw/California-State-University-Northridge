@@ -14,7 +14,7 @@
 ##   text and leave all files detected as binary untouched.
 ##   This will handle all files NOT defined below.
 *                 text=auto
-
+COMP 322 - Introduction to Operating Systems/* linguist-detectable
 
 # Source code
 *.bash            text eol=lf
@@ -26,6 +26,7 @@
 *.html            text diff=html
 *.inc             text
 *.ini             text
+*.ino              linguist-language=c
 *.js              text
 *.json            text
 *.jsx             text
@@ -112,8 +113,8 @@ package-lock.json text -diff
 *.yaml            text
 *.yml             text
 browserslist      text
-Makefile          linguist-language=c
-makefile          text
+Makefile          linguist-language=Shell
+makefile          linguist-language=Shell
 
 # Heroku
 Procfile          text
