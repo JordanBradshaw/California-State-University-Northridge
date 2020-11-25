@@ -26,7 +26,6 @@ COMP 322 - Introduction to Operating Systems/* linguist-detectable
 *.html            text diff=html
 *.inc             text
 *.ini             text
-*.ino              linguist-language=c
 *.js              text
 *.json            text
 *.jsx             text
